@@ -1,0 +1,4 @@
+*.h5
+model_weights/*
+test.ipynb
+.ipynb_checkpoints
